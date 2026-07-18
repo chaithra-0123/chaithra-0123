@@ -1,5 +1,5 @@
 # 💫 About Me:
- BCA Graduate <br>Aspiring Software Developer<br> I'm currently working on improving  Python , SQL ,React, Node.js  Skills and Building Full stack Web Development projects<br>Building projects and improving my coding skills every day<br>Completed a Web Development Intership, where I gained Practicle experience with HTML and CSS<br>I enjoy learning new technologies and improving my coding skills by building projects<br>skills:-<br>HTML<br>CSS<br>python(Basic)<br>SQL (Basic)<br>React(Basic)<br>Node.js(Basic)<br>GIt and GItHub
+ BCA Graduate  I'm currently working on improving  Python , SQL ,React, Node.js  Skills and Building Full stack Web Development projects<br>Building projects and improving my coding skills every day<br>Completed a Web Development Intership with hands-on experienceq in  HTML and CSS<br>I enjoy learning new technologies and improving my coding skills by building projects<br>💻 Skills:-<br>HTML<br>CSS<br>python(Basic)<br>SQL (Basic)<br>React(Basic)<br>Node.js(Basic)<br>GIt and GItHub
 
 
 # 💻 Tech Stack:
@@ -10,5 +10,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chaithra-0123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=chaithra-0123&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
